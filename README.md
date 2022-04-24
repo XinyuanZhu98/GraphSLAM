@@ -5,7 +5,7 @@ Inspiration has been gained from Chenge Yang's repo *SLAM Algorithm Implementati
 
 ## Dataset  
 UTIAS Multi-Robot Cooperative Localization and Mapping Dataset  
-Link: http://asrl.utias.utoronto.ca/datasets/mrclam/index.html
+Link: http://asrl.utias.utoronto.ca/datasets/mrclam/index.html  
 In this implementation, only a subset of the original dataset is used.
 
 ## Dependencies
