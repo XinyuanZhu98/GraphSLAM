@@ -3,6 +3,8 @@ An implementation of graph-based SLAM on a 2D indoor dataset. Course project of 
 
 Inspiration has been gained from Chenge Yang's repo *SLAM Algorithm Implementation - Probabilistic Robotics*, the third part Graph_SLAM, link to it: https://github.com/ChengeYang/Probabilistic-Robotics-Algorithms
 
+Experimented with two initial guesses: odometric and random.
+
 ## Dataset  
 UTIAS Multi-Robot Cooperative Localization and Mapping Dataset  
 Link: http://asrl.utias.utoronto.ca/datasets/mrclam/index.html  
